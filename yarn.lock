@@ -642,15 +642,17 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.8.tgz#551466be11b2adc3f3d47156758f610bd9f6b1d8"
   integrity sha512-b8bbUOTwzIY3V5vDTY1fIJ+ePKDUBqt2hC2woVGotdQQhG/2Sh62HOKHrT7ab+VerXAcPyAiTEipPu/FsreUtg==
 
-"@uirouter/angularjs@^1.0.18":
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/@uirouter/angularjs/-/angularjs-1.0.18.tgz#7ec481921c0c66dc93442b340779d733a49b0214"
+"@uirouter/angularjs@^1.0.22":
+  version "1.0.22"
+  resolved "https://registry.yarnpkg.com/@uirouter/angularjs/-/angularjs-1.0.22.tgz#581ab38794a2d7c2790851087072c4066b2b6c46"
+  integrity sha512-d0SvdbXAav+Z6gCJd7gmn2eXEUtO3RvYcSLwtPaE8+7QiWHpSKNfGdD4D3noXhO2yUTz/AwaxsiRFMCwgVI0UQ==
   dependencies:
-    "@uirouter/core" "5.0.19"
+    "@uirouter/core" "5.0.23"
 
-"@uirouter/core@5.0.19":
-  version "5.0.19"
-  resolved "https://registry.yarnpkg.com/@uirouter/core/-/core-5.0.19.tgz#fe2888190393a8c92584c354e65ab8322c1b0db4"
+"@uirouter/core@5.0.23":
+  version "5.0.23"
+  resolved "https://registry.yarnpkg.com/@uirouter/core/-/core-5.0.23.tgz#363b4bea635a1b48900dc7e65793a65a3b58a79e"
+  integrity sha512-rwFOH++z/KY8y+h0IOpQ5uC8Nim6E0EBCQrIjhVCr+XKYXgpK+VdtuOLFdogvbJ3AAi5Z7ei00qdEr7Did5CAg==
 
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
