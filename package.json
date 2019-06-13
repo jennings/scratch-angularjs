@@ -1,8 +1,8 @@
 {
-  "name": "scratch-angularjs-project",
+  "name": "scratch-angularjs",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Stephen Jennings <stephen.g.jennings@gmail.com>",
+  "author": "Stephen Jennings",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
